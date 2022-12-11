@@ -42,9 +42,9 @@ global.socialm = "GitHub: DINETHSA" //ur github or insta name
 global.location = "Sri Lanka, Matara, Weligama" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94720346266']
-global.ownertag = '94720346266' //ur tag number
-global.botnumber = '94720346266' //Add your Bot Number For Log
+global.owner = ['94720400641']
+global.ownertag = '94720400641' //ur tag number
+global.botnumber = '94720400641' //Add your Bot Number For Log
 global.botname = 'DHINU....s' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
